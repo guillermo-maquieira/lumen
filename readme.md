@@ -1,6 +1,6 @@
 # Products List API Client
 
-Application that consists on an API REST using Lumen (PHP) and a JavaScript client (AngularJS).
+Application that consists on an API REST using Lumen (PHP) and AngularJS.
 
 ## Lumen PHP Framework
 
