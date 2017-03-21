@@ -14,5 +14,5 @@ Laravel Lumen is a stunningly fast PHP micro-framework for building web applicat
 
 ## Screenshot
 
-![Preview]
-(https://raw.githubusercontent.com/guillermo-maquieira/lumen/master/demo.png)
+
+![](https://raw.githubusercontent.com/guillermo-maquieira/lumen/master/demo.png)
